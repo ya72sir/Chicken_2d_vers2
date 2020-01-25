@@ -1,1 +1,2 @@
-# Chicken_2d_vers2
+# Chicken2D_v22
+Логика для простой 2д игры
